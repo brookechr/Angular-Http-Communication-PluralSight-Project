@@ -1,0 +1,20 @@
+[
+    {
+        "readerID": 1,
+        "name": "Mary",
+        "weeklyReadingGoal": 350,
+        "totalMinutesRead": 5600
+    },
+    {
+        "readerID": 2,
+        "name": "Dan",
+        "weeklyReadingGoal": 210,
+        "totalMinutesRead": 3000
+    },
+    {
+        "readerID": 3,
+        "name": "George",
+        "weeklyReadingGoal": 140,
+        "totalMinutesRead": 600
+    }
+]

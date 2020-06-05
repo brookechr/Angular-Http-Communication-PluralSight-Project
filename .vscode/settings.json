@@ -1,0 +1,21 @@
+{
+  "git.ignoreLimitWarning": true,
+  "git.decorations.enabled": false,
+
+  //"files.autoSave": "afterDelay",
+
+  "vsicons.presets.angular": true,
+
+  "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/.DS_Store": true,
+      "**/.gitignore": true,
+      "npm-debug.log": true
+  },
+
+  "window.zoomLevel": 0.4,
+
+  "editor.cursorBlinking": "solid"
+}
